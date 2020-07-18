@@ -213,6 +213,7 @@ Public Class PHIEUTHUTIENDAL
         Return New Result(True)
     End Function
 
+    'Chả biết sao lại lỗi luôn
     Public Function selectAll_ByDateAndID(date_ As String, id As Integer, ByRef listPhieuThu As List(Of PHIEUTHUTIENDTO)) As Result
         Dim query As String = String.Empty
         query &= "SELECT *"
