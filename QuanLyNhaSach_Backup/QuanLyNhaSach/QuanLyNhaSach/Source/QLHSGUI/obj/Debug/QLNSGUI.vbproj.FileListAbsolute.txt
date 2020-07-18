@@ -1,0 +1,204 @@
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSGUI.exe.config
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSGUI.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSBUS.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSBUS.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSBUS.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLNSGUI.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiChiTietBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLTheLoai.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmMain.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.FrmPhieuNhapSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTheLoai.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.frmThemKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.Resources.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSGUI\obj\Debug\QLHSGUI.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe.config
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiChiTietBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLTheLoai.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmMain.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.FrmPhieuNhapSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmSach.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTheLoai.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmThemKhachHang.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.Resources.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe.config
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoTon.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiChiTietBaoCaoCongNo.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuKhachHang.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLSach.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLTheLoai.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuSach.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmMain.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.FrmPhieuNhapSach.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiKhachHang.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmSach.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTheLoai.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmThemKhachHang.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.Resources.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.exe
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe.config
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoCongNo.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoTon.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoCongNo.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoTon.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiChiTietBaoCaoCongNo.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuKhachHang.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLSach.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLTheLoai.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuSach.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmMain.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.FrmPhieuNhapSach.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiKhachHang.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmSach.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTheLoai.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmThemKhachHang.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.Resources.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.GenerateResource.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CopyComplete
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.exe
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuyDinhNhap.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmHoaDonBanSach.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmPreviewHoaDon.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe.config
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.exe
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSGUI.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSBUS.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDAL.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\QLHSDTO.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Utility.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbprojAssemblyReference.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoCongNo.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmLapBaoCaoTon.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoCongNo.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiBaoCaoTon.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiChiTietBaoCaoCongNo.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuKhachHang.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmHoaDonBanSach.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmPreviewHoaDon.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuyDinhNhap.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLSach.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQLTheLoai.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTraCuuSach.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmMain.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.FrmPhieuNhapSach.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmQuanLiKhachHang.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmSach.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmTheLoai.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmThemKhachHang.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.Resources.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.GenerateResource.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CoreCompileInputs.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLNSGUI.vbproj.CopyComplete
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.exe
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmPhieuThuTien.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\obj\Debug\QLHSGUI.frmShowAllPhieuThu.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSGUI\bin\Debug\Placeholder.dll

@@ -1,0 +1,85 @@
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLNSDAL.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\QLHSDAL\obj\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CopyComplete
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.GenerateResource.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CopyComplete
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDAL.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\QLHSDTO.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\bin\Debug\Utility.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbprojAssemblyReference.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.Resources.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.GenerateResource.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CoreCompileInputs.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLNSDAL.vbproj.CopyComplete
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\QLHSDAL\obj\Debug\QLHSDAL.pdb

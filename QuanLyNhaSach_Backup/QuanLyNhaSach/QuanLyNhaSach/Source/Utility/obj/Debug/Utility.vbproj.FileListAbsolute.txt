@@ -1,0 +1,40 @@
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.Resources.resources
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\QuanLyNhaSach\DoAnCNPM-master\Source\Utility\obj\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.pdb
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.Resources.resources
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.dll
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.xml
+D:\HocTap\NhapMonCNPM\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.pdb
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.Resources.resources
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.dll
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.xml
+C:\Users\dell\Desktop\QLNS\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.pdb
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\bin\Debug\Utility.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbprojAssemblyReference.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.Resources.resources
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.GenerateResource.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.vbproj.CoreCompileInputs.cache
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.dll
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.xml
+D:\Semester 4\QuanLyNhaSach____\NMCNPM_QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\QuanLyNhaSach\Source\Utility\obj\Debug\Utility.pdb
